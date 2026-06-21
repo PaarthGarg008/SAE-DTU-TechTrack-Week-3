@@ -42,3 +42,5 @@ When the system prompt is removed, the responses become less structured and vary
 
 ```bash
 pip install -r requirements.txt
+
+![Main Menu](Screenshot1.png)
